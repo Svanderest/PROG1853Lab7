@@ -1,0 +1,9 @@
+C:\Users\sebas\Documents\Lab07-Svanderest\ItemInfoStructure\bin\Debug\ItemInfoStructure.exe
+C:\Users\sebas\Documents\Lab07-Svanderest\ItemInfoStructure\bin\Debug\ItemInfoStructure.pdb
+C:\Users\sebas\Documents\Lab07-Svanderest\ItemInfoStructure\obj\x86\Debug\ItemInfoStructure.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Documents\Lab07-Svanderest\ItemInfoStructure\obj\x86\Debug\ItemInfoStructure.FrmItemInfo.resources
+C:\Users\sebas\Documents\Lab07-Svanderest\ItemInfoStructure\obj\x86\Debug\ItemInfoStructure.Properties.Resources.resources
+C:\Users\sebas\Documents\Lab07-Svanderest\ItemInfoStructure\obj\x86\Debug\ItemInfoStructure.csproj.GenerateResource.Cache
+C:\Users\sebas\Documents\Lab07-Svanderest\ItemInfoStructure\obj\x86\Debug\ItemInfoStructure.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Lab07-Svanderest\ItemInfoStructure\obj\x86\Debug\ItemInfoStructure.exe
+C:\Users\sebas\Documents\Lab07-Svanderest\ItemInfoStructure\obj\x86\Debug\ItemInfoStructure.pdb
